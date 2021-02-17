@@ -40,7 +40,7 @@ python manage.py custom_management_command 2
 Members are created successfully!
 ```
 
-2. REST Api View- Utilized ListApiView from djangorestframework to display the data in REST API/ Json format.
+2. REST Api View- Utilized ListApiView from django rest framework to display the data in REST API/ Json format.
 
 • API VIEW- [Click Here](http://fullthrottle.pythonanywhere.com/?format=api).<br />
 • JSON FORMAT- [Click Here](http://fullthrottle.pythonanywhere.com/?format=json)<br />
