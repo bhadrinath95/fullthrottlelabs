@@ -23,7 +23,7 @@ Available subcommands:
 ...
 
 [main]
-    custom_management_command <-- custom management command
+    custom_management_command
 
 ...
 ```
@@ -38,7 +38,7 @@ python manage.py custom_management_command 2
 
 ```shell
 Members are created successfully!
-...
+```
 
 2. REST Api View- Utilized ListApiView from djangorestframework to display the data in REST API/ Json format.
 
